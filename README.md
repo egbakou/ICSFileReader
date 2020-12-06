@@ -4,8 +4,8 @@ This is a sample demonstrates how to read data from remote or local ICalendar fi
 
 ## An Ics file content example
 
-![](screenshots\ics.png) 
+![](screenshots/ics.png) 
 
 ## .NET Console App reading remote ics file
 
-## ![](screenshots\adb_run.png)
+## ![](screenshots/adb_run.png)
